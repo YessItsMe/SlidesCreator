@@ -13,3 +13,6 @@ Steps:
 Base value: higher the base value more precision will be there(small changes will be catched) and lower value will have lower precision
 
 youtube video link explaining working: 
+
+required libraries:  ImageGrab,imagehash,numpy,os,pathlib,time
+
